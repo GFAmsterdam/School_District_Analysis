@@ -13,7 +13,8 @@ The purpose of this analysis is to take a deeper look at school performances in 
 The overall percentage passing rate dropped from 90% to 65% when the 9th grade scores were replaced with NaN in the analysis. While average reading and math scores were not effected to a hugely discernible degree, the passing rate percentage for math and reading individually and overall were greatly effected. Dropping from the 90's to the 60's.
 
 ### How does replacing the ninth-grade scores affect the following:
-
+ Even with replacing the 9th grade scores, Thomas High School is still in the Top 5 Performing high schools in the district.
+ 
 ### Math and reading scores by grade
 
 ### Scores by school spending
