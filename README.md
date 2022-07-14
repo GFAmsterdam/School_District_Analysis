@@ -23,12 +23,13 @@ The other schools and the other grades at Thomas high school were not affected b
 The issue comes in when we calculate averages because while the NaN scores are not affecting the averages, the percentage calculation is still using the total student body count for Thomas High School, so the dip in passing percentages can be attributed to that. In future analysis, we should exclude the ninth grade student count from the Thomas High School percentage calculation to get a more accurate read.
 
 ### Scores by school spending
-
+Not affected
 
 ### Scores by school size
-
+Not affected
 
 ### Scores by school type
+Not affected
 
-
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
+The greatest observable changes in the school district challenge before and after is the Percentage Passing Math, Percentage Passing Reading and Percentage Passing Overall for Thomas High School. This could be fixed by removing the 9th grade student count from the percentage calculation. Other than that, most of the metrics remain unchanged and decisions regarding those outcomes can be made with confidence.
