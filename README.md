@@ -5,20 +5,21 @@ The purpose of this analysis is to take a deeper look at school performances in 
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-How is the district summary affected?
+### How is the district summary affected?
 
-How is the school summary affected?
+### How is the school summary affected?
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+The overall percentage passing rate dropped from 90% to 65% when the 9th grade scores were replaced with NaN in the analysis. While average reading and math scores were not effected to a hugely discernible degree, the passing rate percentage for math and reading individually and overall were greatly effected. Dropping from the 90's to the 60's.
 
-How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 
-Math and reading scores by grade
+### Math and reading scores by grade
 
-Scores by school spending
+### Scores by school spending
 
-Scores by school size
+### Scores by school size
 
-Scores by school type
+### Scores by school type
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
